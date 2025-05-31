@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\Logic_In_C#\\CsharpProject\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Logic_In_C#\\CsharpProject\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\Logic_In_C#\\CsharpProject\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Logic_In_C#\\CsharpProject\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\Evan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\Logic_In_C#\\CsharpProject\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Logic_In_C#\\CsharpProject\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
