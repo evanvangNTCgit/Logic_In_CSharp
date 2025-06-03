@@ -1,11 +1,25 @@
-﻿for (int i = 1; i <= 100; i++)
+﻿/*
+System.Console.WriteLine("Please enter an integer between 5 and 10.");
+
+int Userint;
+bool validInt = false;
+
+do
 {
-    if (i % 3 == 0 && i % 5 == 0)
-        System.Console.WriteLine($"{i} - FizzBuzz");
-    else if (i % 3 == 0)
-        System.Console.WriteLine($"{i} - Fizz");
-    else if (i % 5 == 0)
-        System.Console.WriteLine($"{i} - Buzz");
+    string? str = Console.ReadLine();
+    int test = int.Parse(str);
+
+    if (str == null || test < 5 || test > 10)
+    {
+        System.Console.WriteLine("Please enter a valid number :|");
+    }
     else
-        System.Console.WriteLine(i);
-}
+    {
+        Userint = test;
+        validInt = true;
+        System.Console.WriteLine($"Thanks for entering a valid number you input {Userint}");
+    }
+
+} while (validInt == false);
+*/
+
